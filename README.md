@@ -12,7 +12,7 @@ When I find something suspicious, I try to understand what happened, collect evi
 
 ## Investigations
 
-**01 – Multiple Failed Login Attempts**
+[01 – Multiple Failed Login Attempts](investigations/001-multi-account-password-guessing/investigation-report.md)
 
 In my first investigation, I created a Splunk alert for repeated failed Windows logins. I identified 14 failed attempts across three accounts, followed by a successful login from the same IP address.
 
